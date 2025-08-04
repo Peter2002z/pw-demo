@@ -1,3 +1,4 @@
+@cart @ui
 Feature: Cart page UI
 
   Background:

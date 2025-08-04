@@ -1,3 +1,4 @@
+@inventory @ui
 Feature: Inventory page UI
 
   Background:

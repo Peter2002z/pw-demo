@@ -1,3 +1,4 @@
+@inventory @e2e
 Feature: Inventory page functionality
 
   Background:

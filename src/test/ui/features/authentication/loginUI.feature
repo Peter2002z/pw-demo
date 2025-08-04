@@ -1,3 +1,4 @@
+@login @ui
 Feature: Login page UI
 
   Background:

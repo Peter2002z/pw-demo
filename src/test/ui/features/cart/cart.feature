@@ -1,3 +1,4 @@
+@cart @e2e
 Feature: Cart functionality
 
   Background:

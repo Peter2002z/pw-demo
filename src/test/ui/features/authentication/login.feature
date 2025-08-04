@@ -1,3 +1,4 @@
+@login @e2e
 Feature: Login functionality
 
   Background:
