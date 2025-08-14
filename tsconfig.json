@@ -9,7 +9,7 @@
     "types": ["node", "playwright"]
   },
   "include": [
-    "src/*/.ts"
+    "src/**/*.ts"
   ],
   "exclude": [
     "dist",
